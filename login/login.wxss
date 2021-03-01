@@ -1,0 +1,26 @@
+/* miniprogram/pages/login/login.wxss */
+form{
+  width: 100%;
+  /* border: solid 1px #0f0; */
+}
+ 
+.section{
+  margin: 50rpx auto;
+}
+input{
+  border: solid 1px #ccc;
+  height: 90rpx;
+}
+.system{
+  font-size: 24px;
+  margin: 10px auto;
+}
+.logoimage{
+  display: flex;
+  flex-direction: column;
+}
+.logoimage image{
+  width: 600rpx;
+  height: 200rpx;
+  border-radius: 30rpx;
+}
